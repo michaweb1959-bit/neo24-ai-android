@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Neo24 AI – Chiedimi qualsiasi cosa!</string>
+
+    <string name="login_title">Accedi a Neo24</string>
+    <string name="login_message">Puoi utilizzare l’account Google già configurato su questo dispositivo.</string>
+    <string name="login_google">Accedi con Google</string>
+    <string name="login_google_opening">Apertura dell’accesso Google…</string>
+    <string name="login_password">Usa nome utente e password</string>
+
+    <string name="google_login_failed">Accesso con Google non riuscito.</string>
+    <string name="google_account_recognized">Account Google riconosciuto: %1$s</string>
+    <string name="microphone_permission_denied">L’accesso al microfono non è stato autorizzato.</string>
+    <string name="external_app_not_found">Non è installata alcuna applicazione adatta.</string>
+
+</resources>

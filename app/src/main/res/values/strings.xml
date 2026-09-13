@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Neo24 AI – Ask me anything!</string>
+    <string name="google_web_client_id">70008837436-pj2hu3ddcc69kft5pau1j4nldenjufvt.apps.googleusercontent.com</string>
+    <string name="account_url">https://neo24.ai/account/</string>
+    <string name="android_login_endpoint">https://neo24.ai/account/wp-json/neo24/v1/android-google-login</string>
+    <string name="login_title">Sign in to Neo24</string>
+
+    <string name="login_message">
+    You can use the Google account that is already configured on this device.
+</string>
+
+    <string name="login_google">
+    Continue with Google
+</string>
+
+    <string name="login_google_opening">
+    Opening Google sign-in…
+</string>
+
+    <string name="login_password">
+    Use username and password
+</string>
+
+    <string name="google_login_failed">
+    Google sign-in failed.
+</string>
+
+    <string name="microphone_permission_denied">
+    Microphone permission was not granted.
+</string>
+
+    <string name="google_account_recognized">
+    Google account recognized: %1$s
+</string>
+
+    <string name="external_app_not_found">
+    No suitable application is installed.
+</string>
+</resources>
