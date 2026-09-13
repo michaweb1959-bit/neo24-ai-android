@@ -1,0 +1,9 @@
+Neo24 AI is an Android client for the Neo24 AI service.
+
+The app provides access to AI chat and supports text input, speech input, text-to-speech output, camera and image upload, file upload, and user account login.
+
+This F-Droid edition does not include Google Play Billing or native Google Play Services authentication. Authentication is handled through the user's web browser and the Neo24 AI server.
+
+A Neo24 AI account is required for account-based features.
+
+Website: https://neo24.ai

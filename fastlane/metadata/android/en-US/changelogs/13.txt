@@ -1,0 +1,1 @@
+Initial open-source release of Neo24 AI for F-Droid.
