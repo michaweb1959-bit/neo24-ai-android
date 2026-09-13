@@ -1,0 +1,1 @@
+Improved compatibility with the F-Droid build environment.

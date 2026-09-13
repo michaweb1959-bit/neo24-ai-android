@@ -10,8 +10,8 @@ android {
         applicationId = "ai.neo24.app.fdroid"
         minSdk = 26
         targetSdk = 36
-        versionCode = 13
-        versionName = "1.1.7-fdroid"
+        versionCode = 14
+        versionName = "1.1.8-fdroid"
 
         testInstrumentationRunner =
             "androidx.test.runner.AndroidJUnitRunner"
