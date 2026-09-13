@@ -1,1 +1,1 @@
-Open-source Android client for the Neo24 AI service.
+Open-source Android client for the Neo24 AI service
