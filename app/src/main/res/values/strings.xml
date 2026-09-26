@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Neo24 AI – Ask me anything!</string>
+    <string name="app_name">Neo24 AI</string>
     <string name="google_web_client_id">70008837436-pj2hu3ddcc69kft5pau1j4nldenjufvt.apps.googleusercontent.com</string>
     <string name="account_url">https://neo24.ai/account/</string>
     <string name="android_login_endpoint">https://neo24.ai/account/wp-json/neo24/v1/android-google-login</string>
